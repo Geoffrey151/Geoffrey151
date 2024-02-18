@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Frontend web development
 - 💞️ I’m looking to collaborate on Web And programming related projects
 - 📫 How to reach me via geoffreydahtkuteboi@gmail.com
- Geoffrey fimba on Facebook
- Anticipate_TechEx on Twitter
+  Utomobong fimba on Facebook
+  2Fimba on Twitter
 
 <!---
 Geoffrey151/Geoffrey151 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
